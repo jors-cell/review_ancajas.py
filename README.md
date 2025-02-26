@@ -1,6 +1,6 @@
 # review_ancajas.py
 
-#act1 ni Ancajas
+#PreLab ni Ancajas
 import math
 
 def compute_surface_area(R, r):
